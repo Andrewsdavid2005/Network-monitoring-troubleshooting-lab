@@ -1,8 +1,8 @@
-# 🌐 Network Monitoring & Troubleshooting Lab
+# Network Monitoring & Troubleshooting Lab
 
 A Cisco Packet Tracer project focused on **network monitoring, fault detection, troubleshooting, routing, switching, and secure network management**.
 
-## 📌 Project Overview
+## Project Overview
 
 This project simulates an enterprise network where network engineers can monitor devices, identify connectivity problems, introduce controlled network failures, troubleshoot them using Cisco IOS commands, and verify the recovery.
 
@@ -12,7 +12,7 @@ The main workflow is:
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 - Design an enterprise network
 - Configure VLANs and trunking
@@ -29,7 +29,7 @@ The main workflow is:
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - Cisco Packet Tracer
 - Cisco IOS
@@ -49,7 +49,7 @@ The main workflow is:
 
 ---
 
-## 🖥️ Network Devices
+## Network Devices
 
 | Device | Model | Quantity |
 |---|---|---:|
@@ -61,7 +61,7 @@ The main workflow is:
 
 ---
 
-## 🌐 IP Addressing
+## IP Addressing
 
 | VLAN | Name | Network | Gateway |
 |---|---|---|---|
@@ -78,7 +78,7 @@ The main workflow is:
 
 ---
 
-## 🔀 VLAN Configuration
+## VLAN Configuration
 
 ### VLAN 10 — USERS
 
@@ -94,7 +94,7 @@ Used for monitoring and internal services.
 
 ---
 
-## 🚦 Inter-VLAN Routing
+## Inter-VLAN Routing
 
 The Cisco 3560 Layer-3 switch performs routing between VLANs using SVIs.
 
